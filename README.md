@@ -1,1 +1,2 @@
 # STAT30270-ML-Assignment
+This assignment involved the selection of the optimal machine learning classifier for predicting the review classification of an unseen Rotton Tomatoes review ("positive" or "negative"). Further details can be found in the file "final_assignment.pdf".
